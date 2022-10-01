@@ -1,5 +1,5 @@
 
 # WebProjects
-start the process.
+Clone this repo and start runing
 
 
