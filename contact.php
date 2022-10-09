@@ -22,5 +22,5 @@
 
 ?>
 </body>
-<head><meta http-equiv = "refresh" content = "0; url = contact.html" /></head>
+<head><meta http-equiv = "refresh" content = "10; url = contact.html" /></head>
 </html>
