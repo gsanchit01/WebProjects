@@ -9,7 +9,7 @@
        $subject = 'New Form Submission';
        $message = $_POST['message'];
 
-            $to = "jathinp74@gmail.com";
+            $to = "xyz123@gmail.com";
                
            if(mail($to,$subject,"Name: ".$name."\nMessage: ".$message,$email))
            {
