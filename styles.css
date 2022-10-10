@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: #06283D;
+    color: aliceblue;
+}
+h1 {
+ font-size: 60px;
+}
+p{
+    font-size: 30px;
+}
+
+.detail-form{
+ font-size: 20px;
+}
+
+button{
+    font-size: 16px;
+    padding: 14px;
+    margin: 4px;
+    border-radius: 6px;
+}
+
