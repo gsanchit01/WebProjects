@@ -1,7 +1,7 @@
 body {
   text-align: center;
-  background-color: #06283d;
-  color: aliceblue;
+  background-color: #6cec99;
+  color: rgb(0, 0, 0);
 }
 h1 {
   font-size: 60px;
@@ -11,12 +11,24 @@ p {
 }
 
 .detail-form {
-  font-size: 20px;
+  font-size: 30px;
 }
 
 button {
+  font-size: 20px;
+  padding: 25px;
+  margin: 6px;
+  border-radius: 10px;
+}
+.text-area{
+  font-size: 20px;
+  padding: 25px;
+  margin: 6px;
+  border-radius: 10px;
+}
+.input{
   font-size: 16px;
-  padding: 14px;
-  margin: 4px;
-  border-radius: 6px;
+  padding: 10px;
+  margin: 3px;
+  border-radius: 10px;
 }
