@@ -1,6 +1,6 @@
 # WebProjects
 
-Clone this repo and start runing
+Clone this repo and start runing on your local machine.
 
 This Is a web development project.
 In this project we have a basic contact page which is build using the HTML, CSS and JavaScript
